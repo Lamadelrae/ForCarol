@@ -1,0 +1,17 @@
+C:\Users\Matthew Almeida\source\repos\ForCarol\ForCarol\bin\Release\netcoreapp3.1\ForCarol.exe
+C:\Users\Matthew Almeida\source\repos\ForCarol\ForCarol\bin\Release\netcoreapp3.1\ForCarol.deps.json
+C:\Users\Matthew Almeida\source\repos\ForCarol\ForCarol\bin\Release\netcoreapp3.1\ForCarol.runtimeconfig.json
+C:\Users\Matthew Almeida\source\repos\ForCarol\ForCarol\bin\Release\netcoreapp3.1\ForCarol.runtimeconfig.dev.json
+C:\Users\Matthew Almeida\source\repos\ForCarol\ForCarol\bin\Release\netcoreapp3.1\ForCarol.dll
+C:\Users\Matthew Almeida\source\repos\ForCarol\ForCarol\bin\Release\netcoreapp3.1\ForCarol.pdb
+C:\Users\Matthew Almeida\source\repos\ForCarol\ForCarol\obj\Release\netcoreapp3.1\ForCarol.csprojAssemblyReference.cache
+C:\Users\Matthew Almeida\source\repos\ForCarol\ForCarol\obj\Release\netcoreapp3.1\ForCarol.ForCarol.resources
+C:\Users\Matthew Almeida\source\repos\ForCarol\ForCarol\obj\Release\netcoreapp3.1\ForCarol.Main.LastBox.resources
+C:\Users\Matthew Almeida\source\repos\ForCarol\ForCarol\obj\Release\netcoreapp3.1\ForCarol.Properties.Resources.resources
+C:\Users\Matthew Almeida\source\repos\ForCarol\ForCarol\obj\Release\netcoreapp3.1\ForCarol.csproj.GenerateResource.cache
+C:\Users\Matthew Almeida\source\repos\ForCarol\ForCarol\obj\Release\netcoreapp3.1\ForCarol.AssemblyInfoInputs.cache
+C:\Users\Matthew Almeida\source\repos\ForCarol\ForCarol\obj\Release\netcoreapp3.1\ForCarol.AssemblyInfo.cs
+C:\Users\Matthew Almeida\source\repos\ForCarol\ForCarol\obj\Release\netcoreapp3.1\ForCarol.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Almeida\source\repos\ForCarol\ForCarol\obj\Release\netcoreapp3.1\ForCarol.dll
+C:\Users\Matthew Almeida\source\repos\ForCarol\ForCarol\obj\Release\netcoreapp3.1\ForCarol.pdb
+C:\Users\Matthew Almeida\source\repos\ForCarol\ForCarol\obj\Release\netcoreapp3.1\ForCarol.genruntimeconfig.cache
