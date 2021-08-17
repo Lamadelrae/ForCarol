@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matthew Almeida\\source\\repos\\ForCarol\\ForCarol\\ForCarol.csproj": {}
+    "C:\\Users\\Matthew Almeida\\Source\\Repos\\ForCarol\\ForCarol\\ForCarol.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matthew Almeida\\source\\repos\\ForCarol\\ForCarol\\ForCarol.csproj": {
+    "C:\\Users\\Matthew Almeida\\Source\\Repos\\ForCarol\\ForCarol\\ForCarol.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matthew Almeida\\source\\repos\\ForCarol\\ForCarol\\ForCarol.csproj",
+        "projectUniqueName": "C:\\Users\\Matthew Almeida\\Source\\Repos\\ForCarol\\ForCarol\\ForCarol.csproj",
         "projectName": "ForCarol",
-        "projectPath": "C:\\Users\\Matthew Almeida\\source\\repos\\ForCarol\\ForCarol\\ForCarol.csproj",
+        "projectPath": "C:\\Users\\Matthew Almeida\\Source\\Repos\\ForCarol\\ForCarol\\ForCarol.csproj",
         "packagesPath": "C:\\Users\\Matthew Almeida\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matthew Almeida\\source\\repos\\ForCarol\\ForCarol\\obj\\",
+        "outputPath": "C:\\Users\\Matthew Almeida\\Source\\Repos\\ForCarol\\ForCarol\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matthew Almeida\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
